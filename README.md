@@ -1,5 +1,4 @@
 # hello-world
-Just learning while enjoying
 
 Hi everybody just passing to say'HI'
 
